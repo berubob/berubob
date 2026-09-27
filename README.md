@@ -6,7 +6,7 @@ I'm a computer science student at Bina Nusantara University with 3.58 GPA
 
 ### 🌐 Contact or reach out to me at my Socials &darr;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/albertchyn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-christian-yang-807592320/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albertchristianyang)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:albertchrisyang@gmail.com) 
 
 ### 💻 These some of my Tech Stack skills &darr;
