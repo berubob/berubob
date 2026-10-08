@@ -20,4 +20,4 @@ I'm a computer science student at Bina Nusantara University with 3.58 GPA
 ---
 [![](https://komarev.com/ghpvc/?username=berubob&icon=0&color=blue)](https://visitcount.itsvg.in)
 
-Credit to GPRM for this Template
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
